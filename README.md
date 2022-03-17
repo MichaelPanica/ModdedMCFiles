@@ -12,12 +12,15 @@ Installation steps for Modded Minecraft (Enigmatica 6)
 8. Once you open it, select Minecraft, and once in My Modpacks, click (+ Create Custom Profile) > _import_ (it should be below Create Profile title.)
 9. Go to the location you've downloaded the _Modded Minecraft Profile-1.0.0.zip_. Select it, and import it by clicking _Open_.
 10. Wait for it to install. _Grab a cup 'a coffa' and smoke a fag_
-11. Once installed, click Play. The vanilla minecraft launcher will pop up. Login. Click start/play whatever it says.
-12. Wait for the game too boot up and load.
-13. Done. You can play single player or multiplayer. 
-14. If you wanna play multiplayer, click on multiplayer (duh), Add Server -> Server Address - Put in the servers IP > start the game. 
-15.         The modded Minecraft wont work on vanilla servers and vice versa. A modpack will work with the same modpack the server has. You can't use a modpack and join a server that uses another modpack. You gotta have the same mods.
-16. If you wanna play on vanilla, IN THE VANILLA LAUNCHER, Select the version you wanna play, (or create new profile and select the version from there if it doesnt pop up), and play.
+11. ### IMPORTANT! After the modpack is installed, Right Click on it > View Profile > Click on the 3 vertical dots on left of "Play" > Profile Options > _UNCHECK_ "Use System Memory Settings" > Set it to at least 9-10 GBs of RAM. Use a convertor if u need to convert MB to GB u pussey
+
+
+13. Once installed, click Play. The vanilla minecraft launcher will pop up. Login. Click start/play whatever it says.
+14. Wait for the game too boot up and load.
+15. Done. You can play single player or multiplayer. 
+16. If you wanna play multiplayer, click on multiplayer (duh), Add Server -> Server Address - Put in the servers IP > start the game. 
+17.         The modded Minecraft wont work on vanilla servers and vice versa. A modpack will work with the same modpack the server has. You can't use a modpack and join a server that uses another modpack. You gotta have the same mods.
+18. If you wanna play on vanilla, IN THE VANILLA LAUNCHER, Select the version you wanna play, (or create new profile and select the version from there if it doesnt pop up), and play.
 
 
 Fuck vanilla minecraft. boring af.
