@@ -6,7 +6,7 @@ Installation steps for Modded Minecraft (Enigmatica 6)
 2. Once the .exe has downloaded, click on it and install Curseforge.
 3. Make sure you have a VANILLA MINECRAFT installed. Either cracked or paid Minecraft (minecraft.net = Paid/Original. 
 4.      (If you wanna get it cracked, use TLauncher). On Cracked Minecraft you will be able to play ONLY on servers that disabled the public feature (cracked servers). On Paid Minecraft you can play on any server + use skins.
-5. After having Vanilla Minecraft + Curseforge installed, make sure you download the Modded Minecraft Profile-1.0.0 from [this page.](https://mega.nz/file/vbAVEArb#njJM3MdAGt0-Vjc3AsAurdoeKxS_-UjsuAl_DilaUXU) Click on download > as a zip. Put it wherever you want
+5. After having Vanilla Minecraft + Curseforge installed, make sure you download the Modded Minecraft Profile-1.0.0 from [this page.](https://mega.nz/file/ODA2jawT#4FLeIaSTtP764BQBukKYmsSs7pvnah9yaaiVc96rGAk) Click on download > as a zip. Put it wherever you want
 6.      but keep in mind where you put it, cause we're gonna need it later.
 7. Open CurseForge App (normally it should be on your desktop). 
 8. Once you open it, select Minecraft, and once in My Modpacks, click (+ Create Custom Profile) > _import_ (it should be below Create Profile title.)
