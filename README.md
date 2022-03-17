@@ -22,5 +22,10 @@ Installation steps for Modded Minecraft (Enigmatica 6)
 17.         The modded Minecraft wont work on vanilla servers and vice versa. A modpack will work with the same modpack the server has. You can't use a modpack and join a server that uses another modpack. You gotta have the same mods.
 18. If you wanna play on vanilla, IN THE VANILLA LAUNCHER, Select the version you wanna play, (or create new profile and select the version from there if it doesnt pop up), and play.
 
+# Installing Shaders.
+The modpack I've made has already one shader pack included. You _DONT_ need to install anything else. (like optifine - it's got that already installed) 
+### If u wanna install another shader pack, google "Minecraft 1.16.5 Shaders Pack > Look for a shader pack you like > Download it (MAKE SURE ITS FOR 1.16.5) > Once downloaded, drag&drop the .zip into _shaderpacks_ folder. You can find the modpack main folder by opening Curseforge > Right click on the Modpack > Open folder. 
+### Inside that folder, there's a folder called _shaderpacks_. Drag and drop the shaders .zip you just downloaded. Now open the modpack (click play), go into Settings > Video > Shaders > Click on the .zip you want to enable. If the game crashes, don't worry. Just open the game again and the shaders should work already -- meaning u dont have to do this step again. 
+### If you wanna change the installed & enabled shaders pack settings, click on Settings > Shadow Options.
 
 Fuck vanilla minecraft. boring af.
